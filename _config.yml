@@ -1,0 +1,20 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Batch Resize Video
+description: Documentation for Batch Resize Video — local video resizing with exact dimensions, social presets, and framing controls.
+url: "https://3thousand30.github.io"
+baseurl: "/batchresizevideo-docs"
+
+color_scheme: light
+nav_sort: order
+
+logo: "assets/images/logo.png"
+
+aux_links:
+  "Get on Microsoft Store": "https://apps.microsoft.com/detail/9NM4PKDTHCBL"
+
+aux_links_new_tab: true
+
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> &mdash;
+  <a href="mailto:hello@3thousand30.com?subject=Batch%20Resize%20Video%20support">Support</a>
