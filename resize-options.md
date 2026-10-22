@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Output size and presets
 
-Enter a custom width and height, or start with a built-in preset. Social-media choices include Instagram portrait (1080 × 1350), Instagram square (1080 × 1080), TikTok / Reels (1080 × 1920), YouTube (1920 × 1080), YouTube Short (1080 × 1920), and Facebook landscape (1280 × 720). Common video-size choices include 4K UHD (3840 × 2160), Full HD (1920 × 1080), HD 720p (1280 × 720), SD 480p (854 × 480), and VGA (640 × 480).
+Enter a custom width and height, or start with a built-in preset. Social-media choices include Instagram portrait (1080 × 1350), Instagram square (1080 × 1080), TikTok / Reels (1080 × 1920), YouTube (1920 × 1080), YouTube Short (1080 × 1920), and Facebook landscape (1280 × 720). Common video-size choices include Full HD (1920 × 1080), HD 720p (1280 × 720), SD 480p (854 × 480), and VGA (640 × 480).
 
 Selecting a preset updates both size fields and highlights that choice. Editing either dimension returns the controls to a custom size.
 
