@@ -10,7 +10,7 @@ Download [Batch Resize Video from Microsoft Store](https://apps.microsoft.com/de
 
 1. In **Input folder**, choose **Browse** and select a folder containing videos. BRV scans that folder only, not subfolders.
 2. In **Resize**, enter an even pixel width and height, or select a social-media or common video-size preset. The selected preset is highlighted and updates both size fields.
-3. Choose **Fit within** to preserve all content with black bars, or **Crop to fill** to fill the target frame. With Crop to fill, choose the crop focus that should remain visible.
+3. Choose **Fit within** to preserve all content with black bars, or **Crop to fill** to fill the target frame. With Crop to fill, use **Position** for a quick nine-point focus or **Draw crop frame** to place a locked-aspect crop box on the original preview.
 4. Check **Frame preview** using the Original, Resized, or Split view. It renders a real frame from the first video in the selected folder.
 5. In **Output**, accept the separate `resized` folder or choose another destination. Add a filename suffix if useful.
 6. Select **Resize videos**. The activity log records completed, skipped, and failed videos.

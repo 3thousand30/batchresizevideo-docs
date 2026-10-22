@@ -21,7 +21,12 @@ Use even dimensions. H.264 video with the compatible `yuv420p` pixel format requ
 
 ## Crop focus
 
-Crop to fill offers nine focus anchors: each corner, the top, bottom, left, right, and centre. Choose the area that should stay visible in every video. For example, use **Top** for a presenter near the top of portrait footage, or **Centre** for a balanced crop.
+Crop to fill offers two clear ways to decide what remains visible:
+
+- **Position** offers nine focus anchors: each corner, the top, bottom, left, right, and centre. Choose the area that should stay visible in every video. For example, use **Top** for a presenter near the top of portrait footage, or **Centre** for a balanced crop.
+- **Draw crop frame** opens a locked-aspect crop box over a real original video frame. Drag the box or its handles to choose the crop area, then BRV applies that relative crop template across the batch. This is useful when you want to trim a little from the sides or frame a repeated subject consistently.
+
+Use a representative sample and review the resized preview. A drawn template works best when the source videos have a similar orientation and framing.
 
 ## Frame preview
 

@@ -26,7 +26,7 @@ Choose exact dimensions or a social-media preset, decide whether to preserve the
 - **Video-folder resizing** — resize every supported video in one folder.
 - **Exact dimensions** — create a fixed width and height from 64 to 7680 pixels.
 - **Ready-made sizes** — start with Instagram portrait or square, TikTok/Reels, YouTube, YouTube Short, Facebook landscape, 4K UHD, Full HD, HD 720p, SD 480p, or VGA dimensions.
-- **Framing control** — fit content within the target frame or crop it to fill using a nine-point focus anchor.
+- **Framing control** — fit content within the target frame, crop it to fill using a nine-point focus anchor, or draw a crop frame on a real preview.
 - **Real-frame preview** — compare original, resized, and split views before processing the batch.
 - **Encoding control** — choose CRF quality, Fast/Medium/Slow encoding, and audio bitrate.
 - **Safe local outputs** — set the folder and suffix, skip existing copies, cancel a batch safely, and review activity logs.
