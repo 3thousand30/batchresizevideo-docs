@@ -17,7 +17,7 @@ Choose exact dimensions or a social-media preset, decide whether to preserve the
 ## How it works
 
 1. **Select an input folder** — BRV scans supported videos directly in that folder.
-2. **Set the output shape** — enter an even pixel width and height, or choose a ready-made portrait, square, landscape, or vertical preset.
+2. **Set the output shape** — enter an even pixel width and height, or choose a ready-made social-media or common video-size preset.
 3. **Keep or crop the frame** — use **Fit within** to preserve all content with black bars, or **Crop to fill** and select the part of the frame that should stay visible.
 4. **Preview and resize** — compare the original, resized, or split real-frame preview, choose a separate output folder, and resize the complete batch.
 
@@ -25,7 +25,7 @@ Choose exact dimensions or a social-media preset, decide whether to preserve the
 
 - **Video-folder resizing** — resize every supported video in one folder.
 - **Exact dimensions** — create a fixed width and height from 64 to 7680 pixels.
-- **Social-media presets** — start with Instagram portrait or square, TikTok/Reels, YouTube, YouTube Short, or Facebook landscape dimensions.
+- **Ready-made sizes** — start with Instagram portrait or square, TikTok/Reels, YouTube, YouTube Short, Facebook landscape, 4K UHD, Full HD, HD 720p, SD 480p, or VGA dimensions.
 - **Framing control** — fit content within the target frame or crop it to fill using a nine-point focus anchor.
 - **Real-frame preview** — compare original, resized, and split views before processing the batch.
 - **Encoding control** — choose CRF quality, Fast/Medium/Slow encoding, and audio bitrate.
