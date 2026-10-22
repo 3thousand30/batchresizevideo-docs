@@ -12,6 +12,10 @@ nav_order: 1
 
 Choose exact dimensions or a social-media preset, decide whether to preserve the whole frame or crop it to fill, preview a real video frame, then resize the batch with the bundled FFmpeg engine.
 
+## Current release
+
+Version 0.1.0.1 adds a clearer crop-review workflow: choose a nine-point focus, draw a locked-aspect crop frame, or switch to **Split** to compare the original and resized frame side by side.
+
 ---
 
 ## How it works

@@ -32,7 +32,7 @@ Use a representative sample and review the resized preview. A drawn template wor
 
 ## Frame preview
 
-BRV extracts a real frame from the first supported video in the folder and renders it using the current resize settings. Compare **Original**, **Resized**, or **Split** before starting. A preview represents its sample frame; review a short output when the folder contains mixed orientations or different compositions.
+BRV extracts a real frame from the first supported video in the folder and renders it using the current resize settings. When using **Draw crop frame**, the original-frame view is the editing surface; use **Split** to leave that editor and compare the original and resized results side by side. A preview represents its sample frame; review a short output when the folder contains mixed orientations or different compositions.
 
 ## Encoding
 
